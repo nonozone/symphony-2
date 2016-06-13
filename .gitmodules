@@ -46,3 +46,9 @@
 [submodule "extensions/association_ui_editor"]
 	path = extensions/association_ui_editor
 	url = https://github.com/mazedigital/association_ui_editor.git
+[submodule "extensions/workspacer"]
+	path = extensions/workspacer
+	url = https://github.com/Petertron/workspacer.git
+[submodule "extensions/tag_ui_selector"]
+	path = extensions/tag_ui_selector
+	url = https://github.com/jonmifsud/tag_ui_selector.git
