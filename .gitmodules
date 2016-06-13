@@ -34,3 +34,15 @@
 [submodule "extensions/richtext_redactor"]
 	path = extensions/richtext_redactor
 	url = https://github.com/remie/richtext_redactor.git
+[submodule "extensions/datetime"]
+	path = extensions/datetime
+	url = https://github.com/DeuxHuitHuit/datetime.git
+[submodule "extensions/association_output"]
+	path = extensions/association_output
+	url = https://github.com/mazedigital/association_output.git
+[submodule "extensions/association_ui_selector"]
+	path = extensions/association_ui_selector
+	url = https://github.com/mazedigital/association_ui_selector.git
+[submodule "extensions/association_ui_editor"]
+	path = extensions/association_ui_editor
+	url = https://github.com/mazedigital/association_ui_editor.git
